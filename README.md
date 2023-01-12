@@ -4,5 +4,5 @@ Although the concept of big data itself is relatively new, the origins of large 
 
 **Big data benefits:**
 
-Big data makes it possible for you to gain more complete answers because you have more information.
-More complete answers mean more confidence in the data—which means a completely different approach to tackling problems.
++Big data makes it possible for you to gain more complete answers because you have more information.
++More complete answers mean more confidence in the data—which means a completely different approach to tackling problems.
